@@ -359,6 +359,9 @@ local spellsAndProvidersByCategory = {
 		[ 33395] = true, -- Freeze (Water Elemental)
 		-- [157997] = true, -- Ice Nova -- since 6.1, ice nova doesn't DR with anything
 		[228600] = true, -- Glacial spike (talent)
+		[198121] = true,  -- Frostbite
+		
+		
 		-- Monk
 		[116706] = 116095, -- Disable
 		-- Priest
